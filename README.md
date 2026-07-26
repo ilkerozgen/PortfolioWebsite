@@ -1,21 +1,11 @@
 # Portfolio Website
 
-## Description
+A fully static personal portfolio website built with HTML, CSS, and JavaScript.
 
-This is my personal portfolio website where I showcase my skillset, experiences, education, and more. It's a comprehensive platform for presenting my professional background and achievements.
+## Features
 
-## Tech Stack
-
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Bootstrap**
-- **jQuery**
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contribution
-
-Contributions are welcome! Please fork this repository and submit pull requests for any improvements or bug fixes.
+- Responsive premium dark/light themed layout
+- Smooth scrolling and reveal animations
+- Sticky navigation with active section highlighting
+- Experience, skills, projects, certifications, education, and contact sections
+- Resume download button and contact mailto integration
