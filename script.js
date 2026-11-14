@@ -5,14 +5,15 @@ const experienceData = [
     location: 'Ankara, Türkiye',
     duration: 'November 2024 – Present',
     achievements: [
-      'Designed and automated more than 1300 functional test cases.',
-      'Reduced manual testing effort by 55%.',
-      'Built an internal Test Management Web Application with reporting and analytics.',
-      'Developed and integrated a Langflow + RAG powered AI assistant into the testing platform.',
-      'Developed a configurable multi-user WebSocket load testing tool.',
-      'Built a Kubernetes log monitoring tool for automated test execution.',
-      'Developed a Service Simulator for distributed systems integration testing.',
-      'Performed functional, API, integration, and mobile application testing in containerized microservices environments.'
+      'Designed and automated 1500+ functional test cases, reducing manual testing effort by 60%.',
+      'Built a test management web application to streamline data entry and generate statistical reports.',
+      'Implemented a Langflow and RAG-based AI assistant into a test management platform to streamline internal workflows, documentation, database querying, and perform CRUD operations via natural language.',
+      'Developed an AI Code Reviewer integrated into Azure DevOps Server pipelines to instantly analyze pull requests upon creation, providing real-time code quality feedback and security checks.',
+      'Led 26 full-cycle test executions across multiple releases and multiple projects.',
+      'Identified and reported 800+ defects, improving system stability and release quality.',
+      'Implemented a log monitoring tool for Kubernetes environments to detect failures in automated test runs.',
+      'Developed a service simulator to support integration testing between distributed systems.',
+      'Executed functional, API, and integration testing across containerized microservices and mobile apps.'
     ]
   },
   {
@@ -88,7 +89,7 @@ const educationData = [
 const languageData = [
   { name: 'Turkish', level: 'Native', value: 100 },
   { name: 'English', level: 'Highly Proficient', value: 90 },
-  { name: 'German', level: 'Beginner', value: 35 }
+  { name: 'German', level: 'Beginner', value: 15 }
 ];
 
 const navLinks = Array.from(document.querySelectorAll('.nav-links a'));
